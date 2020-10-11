@@ -6,10 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.05] - 2020-10-11
+## [0.1.30] - 2020-10-11
 ### Added
 - .gitattributes
 - .gitignore
 - CHANGELOG.md
 - LICENSE.md
 - README.md
+- Active Telecom MPSA\AlarmDbHist
+- Active Telecom MPSA\CryptConvert
+- Active Telecom MPSA\CsvConvert
+- Active Telecom MPSA\CsvToExcel
+- Active Telecom MPSA\DataConvert
+- Active Telecom MPSA\EmailSender
+- Active Telecom MPSA\NetworkSettings
+- Active Telecom MPSA\SecuritySettings
+- Active Telecom MPSA\UserRegistration
+- Active Telecom MPSA\WhatsUpConvert
