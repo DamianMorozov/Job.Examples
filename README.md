@@ -1,6 +1,19 @@
 # Job.Examples
 
-## Active Telecom MPSA
+## Fluent NHibernate CRM
+
+### DeviceControl
+![](Vladimir_Standard/DeviceControl/v.0.2.40/ScaleEntities.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.2.40/ScaleEntity.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.2.40/PluEntity.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.2.40/TemplateEntities.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.2.40/TemplateEntity.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.2.40/TemplateResourceEntities.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.2.40/ProductFacilityEntity.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.2.40/WorkshopEntity.png?raw=true)
+
+
+## MPSA SCADA
 
 ### AlarmDbHist
 ![](Active_Telecom_MPSA/AlarmDbHist/Main.png?raw=true)
