@@ -6,9 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.02] - 2021-03-04
+### Added
+- Vladimir_Standard\DeviceControl\v.0.2.40
+
 ## [0.2.01] - 2021-02-16
 ### Added
-- Vladimir_Standard\DeviceControl
+- Vladimir_Standard\DeviceControl\v.0.1.0
 
 ## [0.1.30] - 2020-10-11
 ### Added
