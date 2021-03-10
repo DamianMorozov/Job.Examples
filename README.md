@@ -2,7 +2,7 @@
 
 ## Fluent NHibernate
 
-### DeviceControl CRM
+### DeviceControl ORM
 ![](Vladimir_Standard/DeviceControl/v.0.2.40/ScaleEntities.png?raw=true)
 ![](Vladimir_Standard/DeviceControl/v.0.2.40/ScaleEntity.png?raw=true)
 ![](Vladimir_Standard/DeviceControl/v.0.2.40/PluEntity.png?raw=true)
