@@ -1,8 +1,30 @@
 # Job.Examples
 
-## Fluent NHibernate
+### DeviceControl ORM v.0.5.390
 
-### DeviceControl ORM
+Nuget packages:
+
+- BlazorDownloadFile
+- BlazorInputFile
+- FluentNHibernate
+- FluentValidation
+- Microsoft.AspNetCore.Authentication.Negotiate
+- Microsoft.AspNetCore.Components
+- Microsoft.AspNetCore.Components.Web
+- MudBlazor
+- Newtonsoft.Json
+- NHibernate
+- Radzen.Blazor
+- System.Data.SqlClient
+- System.Drawing.Common
+- Toolbelt.Blazor.HotKeys
+
+![](Vladimir_Standard/DeviceControl/v.0.5.390/Index.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.5.390/Info.png?raw=true)
+![](Vladimir_Standard/DeviceControl/v.0.5.390/Logs.png?raw=true)
+
+
+### DeviceControl ORM v.0.2.40
 ![](Vladimir_Standard/DeviceControl/v.0.2.40/ScaleEntities.png?raw=true)
 ![](Vladimir_Standard/DeviceControl/v.0.2.40/ScaleEntity.png?raw=true)
 ![](Vladimir_Standard/DeviceControl/v.0.2.40/PluEntity.png?raw=true)
