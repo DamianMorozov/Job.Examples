@@ -1,6 +1,6 @@
 # Job.Examples
 
-### DeviceControl ORM v.0.5.390
+### DeviceControl v.0.5.390
 
 Nuget packages:
 
