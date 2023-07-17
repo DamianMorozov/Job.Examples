@@ -6,17 +6,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.10] - 2023-07-17
+### Changed
+- VladimirStandard
+
 ## [0.2.10] - 2021-08-17
-### Added
-- Vladimir_Standard\DeviceControl\v.0.5.390
+### Changed
+- VladimirStandard
 
 ## [0.2.03] - 2021-03-04
-### Added
-- Vladimir_Standard\DeviceControl\v.0.2.40
+### Changed
+- VladimirStandard
 
 ## [0.2.01] - 2021-02-16
 ### Added
-- Vladimir_Standard\DeviceControl\v.0.1.0
+- VladimirStandard
 
 ## [0.1.30] - 2020-10-11
 ### Added
@@ -25,13 +29,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CHANGELOG.md
 - LICENSE.md
 - README.md
-- Active Telecom MPSA\AlarmDbHist
-- Active Telecom MPSA\CryptConvert
-- Active Telecom MPSA\CsvConvert
-- Active Telecom MPSA\CsvToExcel
-- Active Telecom MPSA\DataConvert
-- Active Telecom MPSA\EmailSender
-- Active Telecom MPSA\NetworkSettings
-- Active Telecom MPSA\SecuritySettings
-- Active Telecom MPSA\UserRegistration
-- Active Telecom MPSA\WhatsUpConvert
+- ActiveTelecom\AlarmDbHist
+- ActiveTelecom\CryptConvert
+- ActiveTelecom\CsvConvert
+- ActiveTelecom\CsvToExcel
+- ActiveTelecom\DataConvert
+- ActiveTelecom\EmailSender
+- ActiveTelecom\NetworkSettings
+- ActiveTelecom\SecuritySettings
+- ActiveTelecom\UserRegistration
+- ActiveTelecom\WhatsUpConvert
