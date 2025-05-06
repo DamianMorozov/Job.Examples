@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.01] - 2025-05-06
+### Added
+- INFOPRO
+
 ## [0.3.10] - 2023-07-17
 ### Changed
 - VladimirStandard
